@@ -27,7 +27,7 @@ I2cbus = smbus.SMBus(1) # for Pi2 uses 1
 
 DHTpin = 17
 
-key="30BCDSRQ52AOI3UA"       # Enter your Write API key from ThingSpeak
+key="V0BZF90D65ORGMGF"       # Enter your Write API key from ThingSpeak
 
 GPIO.setmode(GPIO.BCM)
 # Define GPIO to LCD mapping
